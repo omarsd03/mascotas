@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  baseUrl: 'localhost/Mascotas'
+  baseUrl: 'http://localhost/Proyectos_PHP/backend-mascotas'
 };
 
 /*
